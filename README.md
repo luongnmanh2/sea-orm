@@ -12,7 +12,7 @@
 
 </div>
 
-# 🐚 SeaORM
+# 🐚 SeaORM1
 
 [中文文档](https://github.com/SeaQL/sea-orm/blob/master/README-zh.md)
 
